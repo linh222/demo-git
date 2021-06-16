@@ -9,3 +9,4 @@ flake8
 requests
 pytest-cov
 sentry_sdk==1.1.0
+Python=1.2.3
