@@ -1,0 +1,11 @@
+fastapi==0.65.1
+numpy~=1.20.3
+pydantic~=1.8.2
+pandas~=1.2.4
+scikit-learn==0.24.1
+starlette==0.14.2
+python-dotenv~=0.17.1
+flake8
+requests
+pytest-cov
+sentry_sdk==1.1.0
